@@ -1,0 +1,2 @@
+# OpenTracing-ConsoleCvJsonTracer
+An OpenTracing concrete tracer implementation that uses [cV](https://github.com/Microsoft/CorrelationVector-CSharp) for identifying spans in the output and JSON for formatting tags and logs
