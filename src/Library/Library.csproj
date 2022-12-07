@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.CorrelationVector" Version="1.0.42" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="OpenTracing" Version="0.12.0" />
     <PackageReference Include="OpenTracing.Contrib.Decorators" Version="0.0.3" />
     <PackageReference Include="OpenTracing.Contrib.EventHookTracer" Version="0.9.0" />
